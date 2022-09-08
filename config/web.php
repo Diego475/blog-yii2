@@ -53,6 +53,7 @@ $config = [
         */
     ],
     'params' => $params,
+    'defaultRoute' => 'home/index'
 ];
 
 if (YII_ENV_DEV) {
